@@ -1,0 +1,5 @@
+print('----------DEBUGGING STUFF----------')
+print(f'username:    {curr_username}')
+print(f'credit_txt:  {credit_txt}')
+print(f'credit_user: {credit_user}')
+print(f'credit_type: {user_type}')

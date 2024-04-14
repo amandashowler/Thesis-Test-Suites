@@ -1,0 +1,66 @@
+{
+    "file": {
+      "test_input_file_endswith": ""
+    },
+    "user": {
+      "username": 0,
+      "usertype": 1,
+      "credit": 2,
+      "password": -1,
+      "end": "none"
+    },
+    "item": {
+      "item_name": 0,
+      "seller": 1,
+      "buyer": 2,
+      "auction_length": 3,
+      "curr_bid": 4,
+      "end": "none"
+    },
+    "refund": {
+      "seller": 4,
+      "buyer": 3,
+      "credit": 5
+    },
+    "advertise": {
+      "item_name": 3,
+      "initial_bid": 4,
+      "auction_length": 5
+    },
+    "bid": {
+      "item_name": 3,
+      "seller": 4,
+      "bid": 5
+    },
+    "addcredit": {
+      "credit": 3
+    },
+    "addcredit_aa": {
+      "credit_admin": 3,
+      "username_admin": 4
+    },
+    "create": {
+      "username_to_create": 3,
+      "type_to_create": 4,
+      "password_to_create": -1
+    },
+    "delete": {
+      "username_to_delete": 3
+    },
+    "password": {
+      "password_included": -1,
+      "transaction_line": 2
+    },
+    "logout": {
+      "just_login": 2,
+      "invalid_type": 3,
+      "addcredit": 4,
+      "addcredit_aa": 5,
+      "advertise": 6,
+      "bid": 6,
+      "create": 5,
+      "delete": 4,
+      "refund": 6
+    }
+  }
+  

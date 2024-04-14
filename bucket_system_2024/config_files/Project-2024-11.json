@@ -1,0 +1,68 @@
+{
+    "file": {
+      "test_input_file_endswith": ".in"
+    },
+    "user": {
+      "username": 0,
+      "usertype": 1,
+      "credit": 2,
+      "password": -1,
+      "end": "end"
+    },
+    "available_game": {
+      "game_name": 0,
+      "seller": 1,
+      "price": 2,
+      "end": "end"
+    },
+    "game_collection": {
+      "game_name": 0,
+      "owner": 1,
+      "end": "end"
+    },
+    "refund": {
+      "seller": 4,
+      "buyer": 3,
+      "credit": 5
+    },
+    "sell": {
+      "game_name": 3,
+      "price": 4
+    },
+    "buy": {
+      "game_name": 3,
+      "seller": 4
+    },
+    "addcredit": {
+      "credit": 3
+    },
+    "addcredit_aa": {
+      "credit_admin": 4,
+      "username_admin": 3
+    },
+    "create": {
+      "username_to_create": 3,
+      "type_to_create": 4,
+      "credit_to_create": 5
+    },
+    "delete": {
+      "username_to_delete": 3
+    },
+    "password": {
+      "password_included": -1,
+      "transaction_line": 2
+    },
+    "logout": {
+      "transaction_name": "logout",
+      "just_login": 2,
+      "invalid_type": 3,
+      "addcredit": 4,
+      "addcredit_aa": 5,
+      "sell": 6,
+      "buy": 6,
+      "create": 5,
+      "delete": 4,
+      "refund": 6
+    }
+  }
+  
