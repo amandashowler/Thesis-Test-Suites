@@ -7,6 +7,8 @@ The following are charts from the analysis of types of tests from student-writte
 ### Chart 1: Number of Groups vs. Test Bucket by Type of Requirement
 This chart shows that students are more likely to effectively test for the explicit requirement than the implicit requirements.
 
+<img src="img/chart1-num-groups.png" width=700>
+
 ### Chart 2: Bucket Tests vs. Duplicate Tests by Group
 This demonstrates that students inefficiently test with high redundancy/duplicates.
 
